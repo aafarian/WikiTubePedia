@@ -1,0 +1,14 @@
+{
+  "name": "anto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "videos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
